@@ -1,0 +1,39 @@
+[{
+    "soil": {
+      "code": "SOIL001",
+      "name": "Simonson East sample site 156."
+    },
+    "horizons": [
+      {
+        "number": 1,
+        "upper_depth": 0,
+        "lower_depth": 30,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0.09,
+        "silt": 0.31,
+        "clay": 0.59
+      },
+      {
+        "number": 2,
+        "upper_depth": 30,
+        "lower_depth": 60,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0.07,
+        "silt": 0.37,
+        "clay": 0.56
+      },
+      {
+        "number": 3,
+        "upper_depth": 60,
+        "lower_depth": 91,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0.07,
+        "silt": 0.36,
+        "clay": 0.58
+      }
+    ]
+  }
+]

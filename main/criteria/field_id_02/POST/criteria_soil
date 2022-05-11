@@ -1,0 +1,46 @@
+[{
+    "soil": {
+      "code": "SOIL001",
+      "name": "Soil from management zone 001"
+    },
+    "horizons": [
+      {
+        "number": 1,
+        "upper_depth": 0,
+        "lower_depth": 0,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0,
+        "silt": 0,
+        "clay": 0
+      }
+    ]
+  },
+  {
+    "soil": {
+      "code": "SOIL002",
+      "name": "Soil from management zone 002"
+    },
+    "horizons": [
+      {
+        "number": 1,
+        "upper_depth": 0,
+        "lower_depth": 0,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0,
+        "silt": 0,
+        "clay": 0
+      },
+      {
+        "number": 2,
+        "upper_depth": 0,
+        "lower_depth": 0,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0,
+        "silt": 0,
+        "clay": 0
+      }
+    ]
+  }]
