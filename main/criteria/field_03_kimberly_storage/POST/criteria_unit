@@ -1,0 +1,8 @@
+[{
+  "id": "unit001",
+  "meteo": "METEO001",
+  "crop": "METEO001",
+  "soil": 1,
+  "numerical": 1,
+  "fitting": 1
+}]
