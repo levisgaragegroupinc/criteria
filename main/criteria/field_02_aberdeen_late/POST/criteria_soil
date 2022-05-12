@@ -1,0 +1,18 @@
+[{
+    "soil": {
+      "code": "SOIL001",
+      "name": "Soil from management zone North Late VarTri"
+    },
+    "horizons": [
+      {
+        "number": 1,
+        "upper_depth": 0,
+        "lower_depth": 30,
+        "coarse_fragment": 0,
+        "organic_matter": 0,
+        "sand": 0,
+        "silt": 0,
+        "clay": 0
+      }
+    ]
+  }]
