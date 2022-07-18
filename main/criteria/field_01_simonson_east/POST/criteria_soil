@@ -10,9 +10,9 @@
         "lower_depth": 30,
         "coarse_fragment": 0,
         "organic_matter": 0,
-        "sand": 0.09,
-        "silt": 0.31,
-        "clay": 0.59
+        "sand": 9,
+        "silt": 31,
+        "clay": 59
       },
       {
         "number": 2,
@@ -20,9 +20,9 @@
         "lower_depth": 60,
         "coarse_fragment": 0,
         "organic_matter": 0,
-        "sand": 0.07,
-        "silt": 0.37,
-        "clay": 0.56
+        "sand": 7,
+        "silt": 37,
+        "clay": 56
       },
       {
         "number": 3,
@@ -30,9 +30,9 @@
         "lower_depth": 91,
         "coarse_fragment": 0,
         "organic_matter": 0,
-        "sand": 0.07,
-        "silt": 0.36,
-        "clay": 0.58
+        "sand": 7,
+        "silt": 36,
+        "clay": 58
       }
     ]
   }
